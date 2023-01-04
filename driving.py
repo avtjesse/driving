@@ -16,4 +16,7 @@ if country == 'Taiwan':
 		print('you can have a driving licence')
 	else:
 		print('you cannot have a driving licence yet')
+else:
+	print('you can only inpu Tawain and USA')
+	
 >>>>>>> 67962e4 (add Taiwan)
