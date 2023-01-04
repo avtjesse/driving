@@ -1,5 +1,5 @@
-country = ('please input your country: ')
-age = ('please input your age: ')
+country = input('please input your country: ')
+age = input('please input your age: ')
 age = int(age)
 if country == 'Taiwan':
 	if age >= 18:
